@@ -5,7 +5,7 @@ int main(){
     int b = 19;
     printf("%d < %d\n", a, b);
     for (a; a >= b; a++){
-        printf("hello!\n");
+        printf("Thank you!\n");
     }
     printf("hello");
     return 0;
