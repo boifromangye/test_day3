@@ -7,6 +7,6 @@ int main(){
     for (a; a >= b; a++){
         printf("hello!\n");
     }
-    
+    printf("BYE!");
     return 0;
 }
